@@ -1,1 +1,7 @@
+@import url("style.css");
 
+
+:root{
+    --cor-de-funfo:
+}
+body{background-color: var(--cor-de-funfo);}
