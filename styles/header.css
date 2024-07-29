@@ -32,7 +32,7 @@
     display: block;
 }
 
-.lista-menu-titulo,
+.lista-menu-titulo;
 .lista-menu-item {
     padding: 1em;
     background-color: var(--cor-do-menu);
