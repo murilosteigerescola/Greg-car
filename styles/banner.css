@@ -1,6 +1,6 @@
 .banner {
     background: rgb(226, 0, 0);
-    color: var(--branco);
+    color: var(--black);
     text-align: center;
     padding: 2.5em 2em;
   }
