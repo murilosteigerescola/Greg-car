@@ -1,0 +1,29 @@
+.carrossel{
+    background-color: rgba(242, 172, 172, 0.952);
+  }
+  .carrossel-titulo {
+      color: rgb(164, 13, 13);
+      background-color: rgba(242, 172, 172, 0.952);
+      text-align: center;
+      text-transform: uppercase;
+      font-size: 28px;
+      font-weight: 700;
+      padding: 1em;
+    }
+  
+    .swiper-slide img {
+      width: 30vw;
+  
+  }
+  
+  
+  .swiper-button-prev,
+  .swiper-button-next {
+      display: none;
+  }
+  
+  
+  .swiper-pagination {
+      position: initial;
+      margin: .5em 0;
+  }
